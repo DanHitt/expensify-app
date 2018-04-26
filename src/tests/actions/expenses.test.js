@@ -1,4 +1,3 @@
-
 import { addExpense, editExpense, removeExpense } from '../../actions/expenses';
 
 test('should setup remove expense action object', () => {
